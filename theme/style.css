@@ -1,0 +1,34 @@
+body {
+    margin-top: 30px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#text-box0 {
+    background: #CCC;
+    border: 1px solid #999;
+    padding: 20px;
+    width: 225px;
+    float: left;
+    margin-right: 7px;
+	margin-top: 7px;
+}
+
+#text-box1 {
+    background: #CCC;
+    border: 1px solid #999;
+    padding: 20px;
+    width: 225px;
+    float: left;
+    margin: 7px;
+}
+
+#text-box2 {
+    background: #CCC;
+    border: 1px solid #999;
+    padding: 20px;
+    width: 225px;
+    float: left;
+    margin: 7px;
+}
